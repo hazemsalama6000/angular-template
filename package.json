@@ -18,8 +18,11 @@
     "@angular/platform-browser": "^17.1.0",
     "@angular/platform-browser-dynamic": "^17.1.0",
     "@angular/router": "^17.1.0",
+    "@apollo/client": "^3.11.8",
     "@ngrx/effects": "^18.0.2",
     "@ngrx/store": "^18.0.2",
+    "apollo-angular": "^7.1.2",
+    "graphql": "^16.9.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
